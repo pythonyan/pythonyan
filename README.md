@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pythonyan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpythonyan&screen_name=pythonyan)
 
-## I'm a Consultant, a Software Engineer, a Teacher and a Speaker!
+## I'm a Consultant, a Solutions Architects, a Team Leader and a Father!
 
 I'm a lover of computer science and everything that goes around it.
 I spent my entire life to study and deep in dive issues related to the design, management and development of applications through Microsoft technologies, and not only. 
